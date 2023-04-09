@@ -1,1 +1,1 @@
-# images
+Repository for image storage
